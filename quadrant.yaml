@@ -1,0 +1,10 @@
+path: e:\project\quadrant_dataset
+
+train: images/train
+val: images/train  # یا اگر بعداً val جدا ساختی: images/val
+
+names:
+  0: Q1
+  1: Q2
+  2: Q3
+  3: Q4
